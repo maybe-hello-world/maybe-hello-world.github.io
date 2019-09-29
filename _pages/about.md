@@ -7,17 +7,75 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Good day everyone
-======  
-Meh.
 
-Obviously, it's not finished yet.
+# Welcome
 
-Something here
-------
+I am a student in the Mathematics and Mechanics Faculty at Saint-Petersburg State University, Russia. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquet feugiat scelerisque. Mauris condimentum turpis in dapibus maximus. Donec dolor elit, ultricies lacinia aliquet id, sagittis at neque. Sed sollicitudin nulla id ante consectetur porta. Maecenas eleifend tellus at arcu efficitur, sit amet fermentum urna varius. Nullam eget semper purus. Aenean vitae ligula nec odio ullamcorper convallis quis ut mi. Cras tristique velit ac leo rutrum, et pretium odio imperdiet.
+My current research areas include Reinforcement Learning with natural gradient descent approaches and different experience replay techniques for RL problems, but I'm also interested in anything about computer vision and Deep Learning, so if you have any interesting idea or want me to join some DL/RL project -- just drop me an email. :)
 
-Sed sed egestas sem. Suspendisse potenti. Nam vestibulum nibh non sapien molestie, vel rutrum nibh consequat. Ut finibus id erat eu volutpat. Aenean a sollicitudin felis. Aliquam vel felis et justo imperdiet dignissim sed ultricies quam. Aenean vitae pretium ipsum. In a sapien imperdiet, finibus diam nec, iaculis mi. Integer dignissim lectus ut laoreet ultricies. Nam eu mi eget neque feugiat ullamcorper id quis lacus. In nisl dui, congue eleifend rhoncus auctor, vehicula in nulla. Ut porta nunc et lacus tristique mattis. Morbi sagittis feugiat libero eget tristique.
+## Interests
 
-Mauris scelerisque pharetra efficitur. Phasellus vestibulum tincidunt erat, at consectetur tortor ultricies at. Pellentesque eleifend semper efficitur. Duis dapibus nisi sed mauris interdum varius. Quisque fringilla ligula erat, nec consequat lacus ornare eget. Duis congue, eros mattis sodales condimentum, quam massa vestibulum felis, ultrices tempus felis mauris ac justo. Ut et eros leo. Donec luctus, magna ac maximus fermentum, orci orci bibendum odio, at commodo dui metus quis urna. Quisque finibus urna non faucibus condimentum. Nullam placerat, est at aliquet pulvinar, urna purus gravida neque, id fringilla risus tellus vel odio. Morbi facilisis mi quis suscipit gravida. Integer at hendrerit arcu. Sed fringilla, nibh vel scelerisque dignissim, urna elit tempus velit, sit amet imperdiet tortor dolor lobortis diam. Mauris nisl mi, lobortis suscipit consectetur ultrices, commodo in nibh. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+* Reinforcement Learning
+  * \+ natural gradient approaches
+  * \+ different experience replay implementaions
+* Deep Learning
+  * Computer Vision
+  * Time series
+* Computer Science and algorithms
+
+## Projects
+
+* **Tortilla**  
+  Tortilla is an Apache Guacamole based project developed to give users access to their virtual machines located on Hyper-V hosts. This project provides a virtual graphical console through RDP/ssh and uses html5 to be available in modern web browsers.  
+  It's like a clone of VMware web client, but for MS SCVMM.  
+  Contribution: system architecture, system controller (python), scvmm api access (c#), team leading.
+* **AvaLearn**  
+  Simple client-server app for heavy file hosting and key-based access. Developed for Higher School of Engineering.  
+  Contribution: system architecture, server part (c#, .net core), team leading.
+
+## Hackathons & Challenges
+
+* **Junction 2018** -- runner-up (in-team) in QOCO challenge  
+  *(redirecting air traffic with graph algorithms)*
+* **World-IT-Planet 2018** -- winner (solo) of the international stage in Cloud Systems track
+* **BioHack 2018** -- Special award (in-team) by Institute of Bioinformatics  
+  *(predicting 3D cell structure with ML)*
+* **Junction 2017** -- winners (in-team) of track "Robots, Learning machines"  
+  *(applied ML to Pepper robot to make him copy all our movements)*
+* **World-IT-Planet 2017** -- winner (solo) of the international stage in Cloud Systems track  
+  *(yes, again :D)*
+* **Make your university 20.35** -- winners (in-team)  
+  *(recommender system for people looking for a job)*
+
+## Education
+ 
+* M.S. in Computer Science -- Peter the Great Saint-Petersburg Polytechnical University  
+  *(Thesis: applying natural gradient descent to reinforcement learning algorithm)*
+* B.S. in Computer Science -- Peter the Great Saint-Petersburg Polytechnical University  
+  *(Thesis: creating music with generative adversarial networks)*
+* Additional courses:
+  * Machine learning
+  * Algorithms and data structures
+  * Probability theory
+  * Statistics
+  * Astrophysics
+  
+## Working experience
+
+* Python tutor at *Higher School of Engineering* (Sep. 2018 - now)
+* System administrator at *Higher School of Engineering* (Jul. 2015 - Jun. 2019)
+
+## Certifications
+
+* Certified Associate at Python programming, *OpenEDG*
+* Microsoft Certified Solutions Expert: Cloud Platform and Infrastructure, *Microsoft*
+* Microsoft Certified Solutions Associate: Windows Server 2016, *Microsoft*
+* Microsoft Certified Professional, *Microsoft*
+* Cisco CCNA Instructor, *Cisco*
+* Cisco Certified Network Associate Routing and Switching, *Cisco*
+* Huawei Certified Network Associate Storage, *Huawei*
+
+## Thanks for your attention
+
+Have any questions? Feel free to contact me in any way convenient for you.
