@@ -37,12 +37,12 @@ My current research areas include Reinforcement Learning with natural gradient d
 ## Hackathons & Challenges
 
 * **Junction 2018** -- runner-up (in-team) in QOCO challenge  
-  *(redirecting air traffic with graph algorithms)*
+  *([PlanPlanner](https://projects.hackjunction.com/projects/junction-2018/5bf841e36a75040015931a95) -- redirecting air traffic with graph algorithms)*
 * **World-IT-Planet 2018** -- winner (solo) of the international stage in Cloud Systems track
 * **BioHack 2018** -- Special award (in-team) by Institute of Bioinformatics  
   *(predicting 3D cell structure with ML)*
 * **Junction 2017** -- winners (in-team) of track "Robots, Learning machines"  
-  *(applied ML to Pepper robot to make him copy all our movements)*
+  *([Mirror](https://devpost.com/software/mirr-wait-for-it-or) -- applied ML to Pepper robot to make him copy all our movements)*
 * **World-IT-Planet 2017** -- winner (solo) of the international stage in Cloud Systems track  
   *(yes, again :D)*
 * **Make your university 20.35** -- winners (in-team)  
