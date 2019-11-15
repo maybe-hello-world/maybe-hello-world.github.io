@@ -3,7 +3,7 @@ title: "Optimizing Q-learning with K-FAC Algorithm"
 collection: publications
 permalink: /publication/qfac
 excerpt: 'K-FAC (natural gradient descent approach) can be used for optimizing Q-learning algorithms and works rather well.'
-date: 2019-12
+date: 2019-12-01
 venue: 'Analysis of Images, Social networks and Texts'
 paperurl: 'https://maybe-hello-world.github.io/files/qfac.pdf'
 citation: 'Roman Beltiukov. (2019). &quot;Optimizing Q-learning with K-FAC Algorithm.&quot; <i>Analysis of Images, Social networks and Texts</i>.'
