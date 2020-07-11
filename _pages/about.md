@@ -68,6 +68,7 @@ My current research areas include Reinforcement Learning with natural gradient d
 
 ## Certifications
 
+* Microsoft Certified: Azure AI Engineer Associate, *Microsoft*
 * Certified Associate at Python programming, *OpenEDG*
 * Microsoft Certified Solutions Expert: Cloud Platform and Infrastructure, *Microsoft*
 * Microsoft Certified Solutions Associate: Windows Server 2016, *Microsoft*
