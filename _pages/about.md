@@ -63,6 +63,7 @@ My current research areas include Reinforcement Learning with natural gradient d
   
 ## Working experience
 
+* On-Device ML Model Researcher at *Huawei Russia* (Mar. 2020 - now)
 * Python tutor at *Higher School of Engineering* (Sep. 2018 - now)
 * System administrator at *Higher School of Engineering* (Jul. 2015 - Jun. 2019)
 
