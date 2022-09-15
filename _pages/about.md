@@ -10,25 +10,32 @@ redirect_from:
 
 # Welcome
 
-I am a student in the Mathematics and Mechanics Faculty at Saint-Petersburg State University, Russia. 
+I'm a PhD student in University of California, Santa Barbara, working under supervision of Prof. Arpit Gupta in Systems and Networking Lab.
 
-My current research areas include Reinforcement Learning with natural gradient descent approaches and different experience replay techniques for RL problems, but I'm also interested in anything about computer vision and Deep Learning, so if you have any interesting idea or want me to join some DL/RL project -- just drop me an email. :)
+My current research areas include Machine Learning (and Reinforcement Learning specifically) in Networking, including explainable AI, network data representation techniques, reproducibility and scalability of networking active measurement experiments, and ML-based performance inference.
+
+Researched a Machine Learning models credibility in Networking area, exploring vulnerabilities and problems in published existing solutions and how to fix them using Explainable AI methods (see https://trusteeml.github.io/).
+
 
 ## Interests
 
-* Reinforcement Learning
-  * \+ natural gradient approaches
-  * \+ different experience replay implementaions
-* Deep Learning
-  * Computer Vision
-  * Time series
-* Computer Science and algorithms
+* Machine Learning in Networking
+  * \+ Reinforcement Learning
+  * \+ ML-based performance inference
+  * \+ explainability and robustness
+* Reinforcement Learning in general
+  * World Models (including Dreamer) approaches
+* Deep Space Network and extra-terrestrial issues in networking
 
-## Projects
+## Projects and Publications
+For detailed information on publications see: https://maybe-hello-world.github.io/publications/
 
+* **Trustee**
+  Trustee is a decision tree -based framework for explainable AI, inspired by VIPER project. We showed that many public ML models in networking community are prone to spurious correlations and problems of underspecification, and proposed how to address these issues using XAI techniques.
+  Contribution: public ML models dissection and verification, experiments reproducibility
 * **Tortilla**  
   Tortilla is an Apache Guacamole based project developed to give users access to their virtual machines located on Hyper-V hosts. This project provides a virtual graphical console through RDP/ssh and uses html5 to be available in modern web browsers.  
-  It's like a clone of VMware web client, but for MS SCVMM.  
+  It's like a VMware web client, but for MS SCVMM.  
   Contribution: system architecture, system controller (python), scvmm api access (c#), team leading.
 * **AvaLearn**  
   Simple client-server app for heavy file hosting and key-based access. Developed for Higher School of Engineering.  
@@ -50,6 +57,8 @@ My current research areas include Reinforcement Learning with natural gradient d
 
 ## Education
  
+* Ph.D. in Computer Science -- University of California, Santa Barbara
+  *2021 - now, with Prof. Arpit Gupta*
 * M.S. in Computer Science -- Peter the Great Saint-Petersburg Polytechnical University  
   *(Thesis: applying natural gradient descent to reinforcement learning algorithm)*
 * B.S. in Computer Science -- Peter the Great Saint-Petersburg Polytechnical University  
@@ -63,8 +72,9 @@ My current research areas include Reinforcement Learning with natural gradient d
   
 ## Working experience
 
-* On-Device ML Model Researcher at *Huawei Russia* (Mar. 2020 - now)
-* Python tutor at *Higher School of Engineering* (Sep. 2018 - now)
+* On-Device ML Model Researcher at *Huawei Russia* (Mar. 2020 - Sep. 2021)
+* Junior Reinforcement Learning Researcher at *JetBrains Research* (Oct. 2019 - Jun. 2020)
+* Python tutor at *Higher School of Engineering* (Sep. 2018 - Sep. 2020)
 * System administrator at *Higher School of Engineering* (Jul. 2015 - Jun. 2019)
 
 ## Certifications
