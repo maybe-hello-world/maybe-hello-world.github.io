@@ -68,8 +68,8 @@ analytics:
 author:
   name             : "Roman Beltiukov"
   avatar           : "profile.jpg"
-  bio              : "PhD student at Saint-Petersburg State University"
-  location         : "Saint-Petersburg, Russia"
+  bio              : "PhD student at University of California, Santa Barbara"
+  location         : "Santa Barbara, California"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -195,7 +195,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Moscow # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
