@@ -14,7 +14,9 @@ I'm a PhD student in University of California, Santa Barbara, working under supe
 
 My current research areas include Machine Learning (and Reinforcement Learning specifically) in Networking, including explainable AI, network data representation techniques, reproducibility and scalability of networking active measurement experiments, and ML-based performance inference.
 
-Researched a Machine Learning models credibility in Networking area, exploring vulnerabilities and problems in published existing solutions and how to fix them using Explainable AI methods (see https://trusteeml.github.io/).
+I develop _netUnicorn_ project and _PINOT_ infrastructure to simplify developing credible ML solutions in networking (see [PINOT](https://pinot.cs.ucsb.edu/)).
+
+I also researched a Machine Learning models credibility in Networking area, exploring vulnerabilities and problems in published existing solutions and how to fix them using Explainable AI methods (see [TrusteeML](https://trusteeml.github.io/)).
 
 
 ## Interests
@@ -28,9 +30,12 @@ Researched a Machine Learning models credibility in Networking area, exploring v
 * Deep Space Network and extra-terrestrial issues in networking
 
 ## Projects and Publications
-For detailed information on publications see: https://maybe-hello-world.github.io/publications/
+For detailed information on publications see: [Publications](https://maybe-hello-world.github.io/publications/)
 
-* **Trustee**
+* **netUnicorn**  
+  netUnicorn simplifies (iteratively) curating high-quality data for different learning problems from diverse network environments. It also provides abstractions and infrastructure interaction for developers of data collection pipelines and measurement experiments.
+
+* **Trustee**  
   Trustee is a decision tree -based framework for explainable AI, inspired by VIPER project. We showed that many public ML models in networking community are prone to spurious correlations and problems of underspecification, and proposed how to address these issues using XAI techniques.
   Contribution: public ML models dissection and verification, experiments reproducibility
 * **Tortilla**  
