@@ -10,13 +10,17 @@ redirect_from:
 
 # Welcome
 
-I'm a PhD student in University of California, Santa Barbara, working under supervision of Prof. Arpit Gupta in Systems and Networking Lab.
+I'm a Ph.D. student at the University of California, Santa Barbara, working under the supervision of Prof. Arpit Gupta in the Systems and Networking Lab.
 
-My current research areas include Machine Learning (and Reinforcement Learning specifically) in Networking, including explainable AI, network data representation techniques, reproducibility and scalability of networking active measurement experiments, and ML-based performance inference.
+My current research lies at the intersection of networking, security, and machine learning. Specifically, I
+am interested in developing credible ML-based artifacts for different networking and security problems,
+and democratizing network research by creating public measurement infrastructures and tools.
 
-I develop _netUnicorn_ project and _PINOT_ infrastructure to simplify developing credible ML solutions in networking (see [PINOT](https://pinot.cs.ucsb.edu/)).
+I'm leading _netunicorn_ and _PINOT_ projects aimed to simplify developing trustworthy ML solutions in networking 
+and make real-world data available for everyone (see [PINOT](https://pinot.cs.ucsb.edu/) and [netunicorn](https://github.com/netunicorn)).
 
-I also researched a Machine Learning models credibility in Networking area, exploring vulnerabilities and problems in published existing solutions and how to fix them using Explainable AI methods (see [TrusteeML](https://trusteeml.github.io/)).
+I also researched a Machine Learning models credibility in the Networking area, exploring vulnerabilities and problems in 
+published existing solutions and how to fix them using Explainable AI methods (see [TrusteeML](https://trusteeml.github.io/)).
 
 
 ## Interests
@@ -24,27 +28,35 @@ I also researched a Machine Learning models credibility in Networking area, expl
 * Machine Learning in Networking
   * \+ Reinforcement Learning
   * \+ ML-based performance inference
-  * \+ explainability and robustness
+  * \+ Explainability and robustness
 * Reinforcement Learning in general
   * World Models (including Dreamer) approaches
-* Deep Space Network and extra-terrestrial issues in networking
+* Hobby research interests: Deep Space Network and extra-terrestrial issues in networking ^_^
 
 ## Projects and Publications
 For detailed information on publications see: [Publications](https://maybe-hello-world.github.io/publications/)
 
-* **netUnicorn**  
-  netUnicorn simplifies (iteratively) curating high-quality data for different learning problems from diverse network environments. It also provides abstractions and infrastructure interaction for developers of data collection pipelines and measurement experiments.
+* **netunicorn**  
+  netunicorn simplifies curating high-quality data for different learning problems from diverse network environments.  
+  It also provides abstractions and infrastructure interaction for developers of data collection pipelines and measurement experiments.
+  Contributions: project leading and development.
+
+* **PINOT**  
+  PINOT is a real-world networking infrastructure, deployed at the University of California, Santa Barbara, and aimed to
+  provide access to active data collection to different researchers. Its uniqueness lies in the usage of the university's public Wi-Fi 
+  infrastructure usage for active data measurements from dozens of devices and simultaneous access to anonymized passive data traces on
+  the border gateway. Open 4 Research!
 
 * **Trustee**  
-  Trustee is a decision tree -based framework for explainable AI, inspired by VIPER project. We showed that many public ML models in networking community are prone to spurious correlations and problems of underspecification, and proposed how to address these issues using XAI techniques.
+  Trustee is a decision tree -based framework for explainable AI, inspired by the VIPER project. 
+  We showed that many public ML models in the networking community are prone to spurious correlations and problems of underspecification, 
+  and proposed how to address these issues using XAI techniques.
   Contribution: public ML models dissection and verification, experiments reproducibility
 * **Tortilla**  
-  Tortilla is an Apache Guacamole based project developed to give users access to their virtual machines located on Hyper-V hosts. This project provides a virtual graphical console through RDP/ssh and uses html5 to be available in modern web browsers.  
-  It's like a VMware web client, but for MS SCVMM.  
-  Contribution: system architecture, system controller (python), scvmm api access (c#), team leading.
-* **AvaLearn**  
-  Simple client-server app for heavy file hosting and key-based access. Developed for Higher School of Engineering.  
-  Contribution: system architecture, server part (c#, .net core), team leading.
+  Tortilla is an Apache Guacamole -based project developed to give users access to their virtual machines located on Hyper-V hosts. 
+  This project provides a virtual graphical console through RDP/ssh and uses html5 to be available in modern web browsers.  
+  It's like a VMware web client but for MS SCVMM.  
+  Contribution: system architecture, the system controller (python), SCVMM api access (C#), team leading.
 
 ## Hackathons & Challenges
 
