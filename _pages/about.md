@@ -56,6 +56,13 @@ For detailed information on publications see: [Publications](https://maybe-hello
   Contribution: public ML models dissection and verification, experiments reproducibility  
   [Website](https://trusteeml.github.io/)
 
+## Invited Talks
+ * netUnicorn: A Unified and Modular Data-Collection Platform for Developing Credible ML Models for Networking  
+   _UC Santa Barbara (05/22)_, _The University of Chicago (10/22)_, _ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks (06/22)_
+
+## Awards
+ * _UCSB CS Department Summer Fellowship Award, 2023_
+
 ## Education
  
 * Ph.D. in Computer Science -- University of California, Santa Barbara
