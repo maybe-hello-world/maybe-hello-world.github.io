@@ -9,6 +9,7 @@ venue: 'ANRW 23: Proceedings of the Applied Networking Research Workshop'
 paperurl: 'https://dl.acm.org/doi/10.1145/3606464.3606485'
 projecturl: 'https://pinot.cs.ucsb.edu'
 citation: 'Roman Beltiukov, Sanjay Chandrasekaran, Arpit Gupta, and Walter Willinger. 2023. PINOT: Programmable Infrastructure for Networking. In Proceedings of the Applied Networking Research Workshop (ANRW 23). Association for Computing Machinery, New York, NY, USA, 51–53. https://doi.org/10.1145/3606464.3606485'
+selected: true
 ---
 Data collection is incredibly important for computer network research. Meanwhile, obtaining good data is problematic because it requires not only a good and representative infrastructure but also attention to user privacy, data encryption, and the overall efficiency of the solution.
 

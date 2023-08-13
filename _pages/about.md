@@ -29,32 +29,17 @@ published existing solutions and how to fix them using Explainable AI methods (s
   * \+ ML-based performance inference
   * \+ Explainability and robustness
   * \+ Reinforcement Learning
-* Reinforcement Learning in general
-  * World Models (including Dreamer) approaches
+* Public Measurements and Infrastructures in Networking
 * Hobby research interests: Deep Space Network and extra-terrestrial issues in networking
 
-## Projects and Publications
+## Selected Publications
 For detailed information on publications see: [Publications](https://maybe-hello-world.github.io/publications/)
 
-* **netunicorn**  
-  Our platform, netunicorn, simplifies curating high-quality data for different learning problems from diverse network environments.  
-  It also provides abstractions and infrastructure interaction for developers of data collection pipelines and measurement experiments.  
-  Contributions: project leading and development.  
-  [Website](https://netunicorn.cs.ucsb.edu/)
-
-* **PINOT**  
-  PINOT is a real-world networking infrastructure, deployed at the University of California, Santa Barbara, and aimed to
-  provide access to active data collection to different researchers. Its uniqueness lies in the usage of the university's public Wi-Fi 
-  infrastructure usage for active data measurements from dozens of devices and simultaneous access to anonymized passive data traces on
-  the border gateway. Open 4 Research!  
-  [Website](https://pinot.cs.ucsb.edu/)
-
-* **Trustee**  
-  Trustee is a decision tree -based framework for explainable AI, inspired by the VIPER project. 
-  We showed that many public ML models in the networking community are prone to spurious correlations and problems of underspecification, 
-  and proposed how to address these issues using XAI techniques.  
-  Contribution: public ML models dissection and verification, experiments reproducibility  
-  [Website](https://trusteeml.github.io/)
+<ol>
+{% for post in site.publications reversed | where: "selected", true %}
+  {% include archive-single-paper-custom.html %}
+{% endfor %}
+</ol>
 
 ## Invited Talks
  * netUnicorn: A Unified and Modular Data-Collection Platform for Developing Credible ML Models for Networking  
@@ -71,12 +56,6 @@ For detailed information on publications see: [Publications](https://maybe-hello
   *(Thesis: applying natural gradient descent to reinforcement learning algorithm)*
 * B.S. in Computer Science -- Peter the Great Saint-Petersburg Polytechnical University  
   *(Thesis: creating music with generative adversarial networks)*
-* Additional courses:
-  * Machine learning
-  * Algorithms and data structures
-  * Probability theory
-  * Statistics
-  * Astrophysics
 
 ## Working experience
 
