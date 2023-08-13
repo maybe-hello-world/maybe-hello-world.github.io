@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/pinot
 excerpt: 'PINOT is a campus-based networking infrastructure for experiments and research.'
 date: 2023-07-22
-venue: 'ANRW '23: Proceedings of the Applied Networking Research Workshop'
+venue: 'ANRW 23: Proceedings of the Applied Networking Research Workshop'
 paperurl: 'https://dl.acm.org/doi/10.1145/3606464.3606485'
 citation: 'Roman Beltiukov, Sanjay Chandrasekaran, Arpit Gupta, and Walter Willinger. 2023. PINOT: Programmable Infrastructure for Networking. In Proceedings of the Applied Networking Research Workshop (ANRW '23). Association for Computing Machinery, New York, NY, USA, 51–53. https://doi.org/10.1145/3606464.3606485'
 ---
@@ -12,7 +12,7 @@ Data collection is incredibly important for computer network research. Meanwhile
 
 In this paper, we present an example of such infrastructure, built on the base of the campus of the University of California Santa Barbara, and describe what this infrastructure allows to achieve and how to reproduce it in other universities.
 
-[Download paper here](https://maybe-hello-world.github.io/files/qfac.pdf)
+[Download paper here](https://maybe-hello-world.github.io/files/pinot.pdf)
 
 ## Citing
 
