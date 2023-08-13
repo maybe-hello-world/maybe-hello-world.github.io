@@ -1,7 +1,7 @@
 ---
 title: "AI/ML and Network Security: The Emperor has no Clothes"
 collection: publications
-permalink: /publication/emperor
+permalink: /publications/emperor
 excerpt: 'We show that many published ML models in networking are prone to spurious correlations problems and how to fix it.'
 date: 2022-11-07
 venue: 'ACM CCS 2022'
