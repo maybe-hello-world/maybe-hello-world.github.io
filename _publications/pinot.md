@@ -2,6 +2,7 @@
 title: "PINOT: Programmable Infrastructure for Networking"
 collection: publications
 permalink: /publications/pinot
+authors: 'Roman Beltiukov, Sanjay Chandrasekaran, Arpit Gupta, Walter Willinger'
 excerpt: 'PINOT is a campus-based networking infrastructure for experiments and research.'
 date: 2023-07-22
 venue: 'ANRW 23: Proceedings of the Applied Networking Research Workshop'
