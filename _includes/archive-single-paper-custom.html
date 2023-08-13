@@ -27,6 +27,6 @@
         {{ post.venue }}
     {% endif %}
     {% if post.date %}
-        {{ post.date }}
+        , {{ post.date | date: "%b %Y" }}
     {% endif %}
 </li>
