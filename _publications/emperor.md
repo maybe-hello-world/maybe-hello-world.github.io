@@ -5,6 +5,7 @@ authors: 'A. S. Jacobs, R. Beltiukov, W. Willinger, R. A. Ferreira, A. Gupta, L.
 venue: "CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security"
 paperurl: 'https://dl.acm.org/doi/10.1145/3548606.3560609'
 collection: publications
+projecturl: 'https://trusteeml.github.io/'
 permalink: /publications/emperor
 excerpt: 'We show that many published ML models in networking are prone to spurious correlations problems and how to fix it.'
 ---

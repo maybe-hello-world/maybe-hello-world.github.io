@@ -27,6 +27,9 @@
         {{ post.venue }}
     {% endif %}
     {% if post.date %}
-        , {{ post.date | date: "%b %Y" }}
+        ({{ post.date | date: "%b %Y" }})
+    {% endif %}
+    {% if post.projecturl %}
+        <a href="{{ post.projecturl }}">Project Website</a>
     {% endif %}
 </li>

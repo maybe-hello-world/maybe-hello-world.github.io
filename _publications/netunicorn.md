@@ -5,6 +5,7 @@ permalink: /publications/netunicorn
 excerpt: 'netUnicorn is a data-collection platform to develop generalizable ML models for network security problems.'
 date: 2023-06-15
 venue: 'arXiv preprint arXiv:2306.08853'
+projecturl: 'https://netunicorn.cs.ucsb.edu'
 authors: 'Roman Beltiukov, Wenbo Guo, Arpit Gupta, Walter Willinger'
 paperurl: 'https://arxiv.org/abs/2306.08853'
 citation: 'Roman Beltiukov, Sanjay Chandrasekaran, Arpit Gupta, and Walter Willinger. 2023. PINOT: Programmable Infrastructure for Networking. In Proceedings of the Applied Networking Research Workshop (ANRW 23). Association for Computing Machinery, New York, NY, USA, 51–53. https://doi.org/10.1145/3606464.3606485'
