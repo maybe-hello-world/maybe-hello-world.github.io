@@ -36,7 +36,8 @@ published existing solutions and how to fix them using Explainable AI methods (s
 For detailed information on publications see: [Publications](https://maybe-hello-world.github.io/publications/)
 
 <ol>
-{% for post in site.publications reversed | where: "selected" %}
+{% assign posts = site.publications | where: "selected" %}
+{% for post in posts reversed %}
   {% include archive-single-paper-custom.html %}
 {% endfor %}
 </ol>
