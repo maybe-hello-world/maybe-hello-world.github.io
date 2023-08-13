@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome
+# About me
 
 I'm a Ph.D. student at the University of California, Santa Barbara, working under the supervision of Prof. Arpit Gupta in the Systems and Networking Lab.
 
