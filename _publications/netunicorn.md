@@ -3,12 +3,12 @@ title: "In Search of netUnicorn: A Data-Collection Platform to Develop Generaliz
 collection: publications
 permalink: /publications/netunicorn
 excerpt: 'netUnicorn is a data-collection platform to develop generalizable ML models for network security problems.'
-date: 2023-06-15
-venue: 'arXiv preprint arXiv:2306.08853'
+date: 2023-11-26
+venue: 'Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS ’23)'
 projecturl: 'https://netunicorn.cs.ucsb.edu'
 authors: 'Roman Beltiukov, Wenbo Guo, Arpit Gupta, Walter Willinger'
 paperurl: 'https://arxiv.org/abs/2306.08853'
-citation: 'Roman Beltiukov, Sanjay Chandrasekaran, Arpit Gupta, and Walter Willinger. 2023. PINOT: Programmable Infrastructure for Networking. In Proceedings of the Applied Networking Research Workshop (ANRW 23). Association for Computing Machinery, New York, NY, USA, 51–53. https://doi.org/10.1145/3606464.3606485'
+citation: 'Roman Beltiukov, Wenbo Guo, Arpit Gupta, and Walter Willinger. 2023. In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems: https://netunicorn.cs.ucsb.edu. In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS ’23), November 26–30, 2023, Copenhagen, Denmark. ACM, New York, NY, USA,  https://doi.org/10.1145/3576915.3623075'
 selected: true
 ---
 The remarkable success of the use of machine learning-based solutions for network security problems has been impeded by the developed ML models' inability to maintain efficacy when used in different network environments exhibiting different network behaviors. This issue is commonly referred to as the generalizability problem of ML models. The community has recognized the critical role that training datasets play in this context and has developed various techniques to improve dataset curation to overcome this problem. Unfortunately, these methods are generally ill-suited or even counterproductive in the network security domain, where they often result in unrealistic or poor-quality datasets.
