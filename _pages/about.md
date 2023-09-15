@@ -16,11 +16,13 @@ My current research lies at the intersection of networking, security, and machin
 am interested in developing credible ML-based artifacts for different networking and security problems,
 and democratizing network research by creating public measurement infrastructures and tools.
 
-I'm leading _netunicorn_ and _PINOT_ projects aimed to simplify developing trustworthy ML solutions in networking 
+I'm leading _netUnicorn_ and _PINOT_ projects aimed to simplify developing trustworthy ML solutions in networking 
 and make real-world data available for everyone (see [PINOT](https://pinot.cs.ucsb.edu/) and [netunicorn](https://netunicorn.cs.ucsb.edu)).
 
 I also researched a Machine Learning models credibility in the Networking area, exploring vulnerabilities and problems in 
 published existing solutions and how to fix them using Explainable AI methods (see [TrusteeML](https://trusteeml.github.io/)).
+
+Currently, I'm also working on public speedtest measurements (e.g., MLab-based) to inference and predict measurement context.
 
 
 ## Interests
@@ -28,8 +30,9 @@ published existing solutions and how to fix them using Explainable AI methods (s
 * Machine Learning in Networking
   * \+ ML-based performance inference
   * \+ Explainability and robustness
-  * \+ Reinforcement Learning
-* Public Measurements and Infrastructures in Networking
+  * \+ Model generalizability and credibility
+  * \+ Datasets collection and curation
+* Network measurement tools and infrastructures
 * Hobby research interests: Deep Space Network and extra-terrestrial issues in networking
 
 ## Selected Publications
@@ -42,9 +45,13 @@ For detailed information on publications see: [Publications](https://maybe-hello
 {% endfor %}
 </ol>
 
-## Invited Talks
+## Invited Talks and Tutorials
+ * ACM SIGCOMM 2023 Tutorial: Closed-Loop “ML for Networks” Pipelines  
+   _ACM SIGCOMM 2023, New York, NY (09/23)_  
  * netUnicorn: A Unified and Modular Data-Collection Platform for Developing Credible ML Models for Networking  
-   _UC Santa Barbara (05/22)_, _The University of Chicago (10/22)_, _ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks (06/22)_
+   * _UC Santa Barbara (05/22)_  
+   * _The University of Chicago (10/22)_  
+   * _ACM SIGMETRICS Workshop on Measurements for Self-Driving Networks (06/23)_
 
 ## Awards
  * _UCSB CS Department Summer Fellowship Award, 2023_
