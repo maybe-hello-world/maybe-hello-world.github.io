@@ -7,7 +7,7 @@ date: 2023-11-26
 venue: 'Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS ’23)'
 projecturl: 'https://netunicorn.cs.ucsb.edu'
 authors: 'Roman Beltiukov, Wenbo Guo, Arpit Gupta, Walter Willinger'
-paperurl: 'https://arxiv.org/abs/2306.08853'
+paperurl: 'https://dl.acm.org/doi/10.1145/3576915.3623075'
 citation: 'Roman Beltiukov, Wenbo Guo, Arpit Gupta, and Walter Willinger. 2023. In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems: https://netunicorn.cs.ucsb.edu. In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS ’23), November 26–30, 2023, Copenhagen, Denmark. ACM, New York, NY, USA,  https://doi.org/10.1145/3576915.3623075'
 selected: true
 ---
@@ -20,12 +20,20 @@ We demonstrate how netUnicorn simplifies collecting data for different learning 
 ## Citing
 
 ```bibtex
-@misc{beltiukov2023search,
-      title={In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems}, 
-      author={Roman Beltiukov and Wenbo Guo and Arpit Gupta and Walter Willinger},
-      year={2023},
-      eprint={2306.08853},
-      archivePrefix={arXiv},
-      primaryClass={cs.NI}
+@inproceedings{10.1145/3576915.3623075,
+      author = {Beltiukov, Roman and Guo, Wenbo and Gupta, Arpit and Willinger, Walter},
+      title = {In Search of NetUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems},
+      year = {2023},
+      isbn = {9798400700507},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3576915.3623075},
+      doi = {10.1145/3576915.3623075},
+      booktitle = {Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security},
+      pages = {2217–2231},
+      numpages = {15},
+      keywords = {machine learning, generalizability, artificial intelligence, network security, data collection},
+      location = {<conf-loc>, <city>Copenhagen</city>, <country>Denmark</country>, </conf-loc>},
+      series = {CCS '23}
 }
 ```
