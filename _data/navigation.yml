@@ -1,10 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "Industry CV"
-    url: /industry-cv/
   
-  - title: "Academic CV"
+  - title: "Resume"
     url: /academic-cv/
